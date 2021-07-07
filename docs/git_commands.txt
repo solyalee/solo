@@ -1,0 +1,6 @@
+git status - check changes 
+git add . - mark all changes to be saved in the commit 
+git commit FILE_NAME - mark only specific file to be saved
+git commit -m "some custom description" - save changes in commit
+git push - push commits to the repository
+git pull - pull everything from the repository
